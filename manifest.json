@@ -1,0 +1,16 @@
+{
+  "versao": "2.8.2",
+  "notas": "Configurações organizada em abas; o ventilador volta à velocidade anterior depois do reforço, mesmo se o ar desligar ou a placa reiniciar.",
+  "master": {
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.2.bin",
+    "tamanho": 2690656,
+    "sha256": "ba42db3ea4b24debcad3d10e0b0640c8960138511c192dd1b35e662e9a76b4b0",
+    "assinatura": "MEUCIQDiWkIq6lXu0gJE3tDACiTyD5tQ+43cLeX56Ji7HcZ8UwIgZ+Xjmy3q7fFp4MR4i8oNoFSCpcCFDOBUH6y1kFL+KRo="
+  },
+  "slave": {
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.2.bin",
+    "tamanho": 1571648,
+    "sha256": "550d254e23b1bd283369c5b2b073e363c24f5dafb145ed45f7d39b4bcc584351",
+    "assinatura": "MEYCIQDdolRa/GVkVAoX6XFkRF3RDxdCZpa2OnwiDGPF8UIOugIhAKw6j1nlVJi5ei4Gys30im3qEfX1pQj2VFrCOXvA+igW"
+  }
+}

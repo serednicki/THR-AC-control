@@ -1,16 +1,16 @@
 {
-  "versao": "2.8.2",
-  "notas": "Configurações organizada em abas; o ventilador volta à velocidade anterior depois do reforço, mesmo se o ar desligar ou a placa reiniciar.",
+  "versao": "2.8.3",
+  "notas": "Slaves conectam sempre no roteador Wi-Fi mais forte (menos quedas) e informam o motivo de cada queda. Relatório de memória do Master mais claro.",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.2.bin",
-    "tamanho": 2690656,
-    "sha256": "ba42db3ea4b24debcad3d10e0b0640c8960138511c192dd1b35e662e9a76b4b0",
-    "assinatura": "MEUCIQDiWkIq6lXu0gJE3tDACiTyD5tQ+43cLeX56Ji7HcZ8UwIgZ+Xjmy3q7fFp4MR4i8oNoFSCpcCFDOBUH6y1kFL+KRo="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.3.bin",
+    "tamanho": 2690736,
+    "sha256": "0ad65ca74cc95885837532c6278825b55fac99868fa06aae18314a5a7f364fee",
+    "assinatura": "MEUCIQCL8uzGorSW2S8ZxJBUNpmLeBHJFjZuWikHLXT8Z6W4KwIgMNAA2hSmhGc1NJ+Zppg8q/A+uIxKhvuZzsEtKnCDPGQ="
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.2.bin",
-    "tamanho": 1571648,
-    "sha256": "550d254e23b1bd283369c5b2b073e363c24f5dafb145ed45f7d39b4bcc584351",
-    "assinatura": "MEYCIQDdolRa/GVkVAoX6XFkRF3RDxdCZpa2OnwiDGPF8UIOugIhAKw6j1nlVJi5ei4Gys30im3qEfX1pQj2VFrCOXvA+igW"
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.3.bin",
+    "tamanho": 1575648,
+    "sha256": "e24baafa8d7fc76f113fbe968fa4cfb44b7b61d9d39495da4a97736803a39bc9",
+    "assinatura": "MEYCIQDYHlyuUkHTzZKmyhvMQAJiGFYBOl8pc0tD+HcC+JiVdAIhAKVclyxlV4wCDn2q96t4C7FnYsVGU9Tzw5DBdHStF9R7"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "versao": "2.8.6",
-  "notas": "Corrige o radar aparecendo como Sem radar na 2.8.5.",
+  "versao": "2.9.0",
+  "notas": "Sensor de presença adicional por ESP-NOW (Configurações > Sensores). Aviso dos Slaves mais enxuto.",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.6.bin",
-    "tamanho": 2700400,
-    "sha256": "438c34339b57f95f33101893493214f62d30df92965b4926c21b910eac41de3b",
-    "assinatura": "MEQCIBO1Zcqsx2bIOPXKF94kwQi4FVk4ix5uKR8KWnsPSQ8dAiBSdc/UNPYBEJYpYaSmvok5dhYx5iwyF0hOqO/mW1wEzw=="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.9.0.bin",
+    "tamanho": 2708320,
+    "sha256": "658cd390f8b13147ceec098ac24a6e00ade2287ee9d79b23b619a45fed3944d7",
+    "assinatura": "MEYCIQCk5huJQAtJkzfwcJupKETo+XGX0I0RtL57cGvhQ7KFygIhANCf869irrMFTJU5M+3EqMPpTPo+lBH7l1lYGAf/VvfK"
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.6.bin",
-    "tamanho": 1586128,
-    "sha256": "0c8e27c443e0495b527a10eb5f654609fe6d0c5025ab53eaaed2504985005a80",
-    "assinatura": "MEQCIAQ8VwbEWrHlCbKS3VDzs5SLbbHnwS1KoKH1H2FU4yM8AiBLc34iI1vU/5Uhrp0Yyh8IKmIDBR9Fqc3wPu5TwOpBXQ=="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.9.0.bin",
+    "tamanho": 1610368,
+    "sha256": "e65b30e4340ad2567802b5fd008b5b332d54b600eef53cacbeda8ea05645a42f",
+    "assinatura": "MEUCIFt913T3F5sIStdf+9J0tbIZLUkSXe9mUuBQsJzhwCdwAiEA4ue2zlgFIusdfQif4kNMz0OLyhqTjCZraO7hH2yvJJY="
   }
 }

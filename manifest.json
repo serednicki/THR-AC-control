@@ -1,16 +1,16 @@
 {
-  "versao": "2.8.4",
-  "notas": "Reforço do ventilador: uma troca de velocidade feita durante o reforço (painel, voz ou controle) passa a valer.",
+  "versao": "2.8.5",
+  "notas": "Teste de alcance do ESP-NOW entre o Master e os Slaves (só medição; o Wi-Fi continua levando tudo).",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.4.bin",
-    "tamanho": 2690928,
-    "sha256": "c04c37e9bafc9301a287507ed5bcecabfd4e06f11071ce4e358de09fab856288",
-    "assinatura": "MEYCIQC1luvZGYaSoZAwpyVAEn0PEc41M8B8nhCGYQOLSGWOZAIhAKCZUz0iBbUz2GWYb803K1HM2KxjJcmmbhGtO1O+wGar"
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.5.bin",
+    "tamanho": 2700400,
+    "sha256": "6076f8e5d7556f596ae19464b21284b72aef32aabb656ef581189f418b2ea8e9",
+    "assinatura": "MEYCIQDUDyqN988BDcXAeGUT+f7LyuyysJHhM9rzIF8zS3vz4wIhALQRF3PgaCUmL0zH3z3JpQdWCvrhBxmSizsRg+KWm0CY"
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.4.bin",
-    "tamanho": 1575872,
-    "sha256": "3a93ce91662d973d085a27e903a8253dd34024875ba18b1affc27a6541b02578",
-    "assinatura": "MEYCIQDnzvLJsV5S5K5FWJgi3+6lcuQEPooOeJhBZ6I/O8xY5wIhAL7tzCLKWq+h5ura1YP+LBWIWtUpM1CSs2yiK8wwbXqT"
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.5.bin",
+    "tamanho": 1585776,
+    "sha256": "22a70ee1cf2d8d611bd231be642bc07af4a68d4bed131c02bf744efcb4fa353f",
+    "assinatura": "MEQCIDMyK/UNZ5RhXOPQL9vPgiM1I+1TYWW08YtJjoJl98zIAiAaPmsdbxyb/IEoVkm4Vui3mYAFERVhAdTyFvFhl6seWw=="
   }
 }

@@ -1,16 +1,16 @@
 {
-  "versao": "2.8.3",
-  "notas": "Slaves conectam sempre no roteador Wi-Fi mais forte (menos quedas) e informam o motivo de cada queda. Relatório de memória do Master mais claro.",
+  "versao": "2.8.4",
+  "notas": "Reforço do ventilador: uma troca de velocidade feita durante o reforço (painel, voz ou controle) passa a valer.",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.3.bin",
-    "tamanho": 2690736,
-    "sha256": "0ad65ca74cc95885837532c6278825b55fac99868fa06aae18314a5a7f364fee",
-    "assinatura": "MEUCIQCL8uzGorSW2S8ZxJBUNpmLeBHJFjZuWikHLXT8Z6W4KwIgMNAA2hSmhGc1NJ+Zppg8q/A+uIxKhvuZzsEtKnCDPGQ="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.4.bin",
+    "tamanho": 2690928,
+    "sha256": "c04c37e9bafc9301a287507ed5bcecabfd4e06f11071ce4e358de09fab856288",
+    "assinatura": "MEYCIQC1luvZGYaSoZAwpyVAEn0PEc41M8B8nhCGYQOLSGWOZAIhAKCZUz0iBbUz2GWYb803K1HM2KxjJcmmbhGtO1O+wGar"
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.3.bin",
-    "tamanho": 1575648,
-    "sha256": "e24baafa8d7fc76f113fbe968fa4cfb44b7b61d9d39495da4a97736803a39bc9",
-    "assinatura": "MEYCIQDYHlyuUkHTzZKmyhvMQAJiGFYBOl8pc0tD+HcC+JiVdAIhAKVclyxlV4wCDn2q96t4C7FnYsVGU9Tzw5DBdHStF9R7"
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.4.bin",
+    "tamanho": 1575872,
+    "sha256": "3a93ce91662d973d085a27e903a8253dd34024875ba18b1affc27a6541b02578",
+    "assinatura": "MEYCIQDnzvLJsV5S5K5FWJgi3+6lcuQEPooOeJhBZ6I/O8xY5wIhAL7tzCLKWq+h5ura1YP+LBWIWtUpM1CSs2yiK8wwbXqT"
   }
 }

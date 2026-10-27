@@ -1,16 +1,16 @@
 {
-  "versao": "2.8.5",
-  "notas": "Teste de alcance do ESP-NOW entre o Master e os Slaves (só medição; o Wi-Fi continua levando tudo).",
+  "versao": "2.8.6",
+  "notas": "Corrige o radar aparecendo como Sem radar na 2.8.5.",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.5.bin",
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.8.6.bin",
     "tamanho": 2700400,
-    "sha256": "6076f8e5d7556f596ae19464b21284b72aef32aabb656ef581189f418b2ea8e9",
-    "assinatura": "MEYCIQDUDyqN988BDcXAeGUT+f7LyuyysJHhM9rzIF8zS3vz4wIhALQRF3PgaCUmL0zH3z3JpQdWCvrhBxmSizsRg+KWm0CY"
+    "sha256": "438c34339b57f95f33101893493214f62d30df92965b4926c21b910eac41de3b",
+    "assinatura": "MEQCIBO1Zcqsx2bIOPXKF94kwQi4FVk4ix5uKR8KWnsPSQ8dAiBSdc/UNPYBEJYpYaSmvok5dhYx5iwyF0hOqO/mW1wEzw=="
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.5.bin",
-    "tamanho": 1585776,
-    "sha256": "22a70ee1cf2d8d611bd231be642bc07af4a68d4bed131c02bf744efcb4fa353f",
-    "assinatura": "MEQCIDMyK/UNZ5RhXOPQL9vPgiM1I+1TYWW08YtJjoJl98zIAiAaPmsdbxyb/IEoVkm4Vui3mYAFERVhAdTyFvFhl6seWw=="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.8.6.bin",
+    "tamanho": 1586128,
+    "sha256": "0c8e27c443e0495b527a10eb5f654609fe6d0c5025ab53eaaed2504985005a80",
+    "assinatura": "MEQCIAQ8VwbEWrHlCbKS3VDzs5SLbbHnwS1KoKH1H2FU4yM8AiBLc34iI1vU/5Uhrp0Yyh8IKmIDBR9Fqc3wPu5TwOpBXQ=="
   }
 }

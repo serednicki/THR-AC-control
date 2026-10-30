@@ -1,16 +1,16 @@
 {
-  "versao": "2.9.2",
-  "notas": "Bluetooth do radar desligado por padrão (melhora o Wi-Fi); chave no painel em Configurações > Sensores.",
+  "versao": "2.9.3",
+  "notas": "Wi-Fi do Master no painel (quedas, motivo, sinal, reinício); Bluetooth do sensor extra pelo painel; aba Sensores tolera Slave lento; radar em 115200 ou 256000 baud; consulta diária com o painel parado para poupar memória.",
   "master": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.9.2.bin",
-    "tamanho": 2713056,
-    "sha256": "c92babb11f53fd5b867ffa9f1cb510cac96e13cb7ab01d5d446dd40ca1e8011c",
-    "assinatura": "MEQCIGzsJ36hJ9TbFYpfZNI2zUPG5E4FU1Zs/Ssx0Y+hZ9jEAiARzL+79S4FOZvSpk+LUBEfcweEG/W5Tjh4X8faE5hXUA=="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/master-v2.9.3.bin",
+    "tamanho": 2721408,
+    "sha256": "b8a3cbc9f7214d57afbe5d2f072ff96a382ac3316933c609efa173130e2db3b2",
+    "assinatura": "MEUCIAyB+UyR/KaT7OFQYPLGGL1FG4Jba/mHaQFXNOVGfqmBAiEAyRQiP3C+OUKXESyxhK+zFg/pjNXb0zAo5D1OEdgBNRw="
   },
   "slave": {
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.9.2.bin",
-    "tamanho": 1615024,
-    "sha256": "0671c9ceaa6717c26074639ea827255255a1aae98bf0094ca4f95f6adf1ace6a",
-    "assinatura": "MEQCIETSafWcozlFnAV+1ACynFuEWKMBtOOVyH/MggWyfwa+AiBA5Ry6vrO8mO3hmZqJ7E/x2SWWLqxJZ9jTeMOhi1NSYQ=="
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/slave-v2.9.3.bin",
+    "tamanho": 1616208,
+    "sha256": "c777093b8a5ea0600bc05ec0b5902a793ea3598775efbc423612633e94e6cbef",
+    "assinatura": "MEYCIQC6Fk67KqfvS/+fCPhW4CM1EYbiFK/PAmbwSXj+iacyCgIhAM98E488T3sfkZCIf3aQaV8cEQHmGw10bAHDdObW5Y8x"
   }
 }

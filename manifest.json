@@ -12,5 +12,13 @@
     "tamanho": 1616208,
     "sha256": "c777093b8a5ea0600bc05ec0b5902a793ea3598775efbc423612633e94e6cbef",
     "assinatura": "MEYCIQC6Fk67KqfvS/+fCPhW4CM1EYbiFK/PAmbwSXj+iacyCgIhAM98E488T3sfkZCIf3aQaV8cEQHmGw10bAHDdObW5Y8x"
+  },
+  "painelHub": {
+    "versao": "3.0.1",
+    "notas": "A atualização do painel mudou para Configurações → Firmware.",
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/hub/painel-hub-v3.0.1.json",
+    "tamanho": 441861,
+    "sha256": "dca22c298d5bbc18c6a96ae9e78ecf18d4e0fdb60969026b7122c86e1a9e6adc",
+    "assinatura": "MEYCIQDzCAzXkT0uknl1aVL90vDHvOLJy6q/Be/8ZM5hNvGmLAIhAM8M2L8nuIPsQCt3ArfDjtMViOYwvqurOvffH1DU5jGC"
   }
 }

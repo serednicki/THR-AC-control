@@ -14,11 +14,11 @@
     "assinatura": "MEYCIQC6Fk67KqfvS/+fCPhW4CM1EYbiFK/PAmbwSXj+iacyCgIhAM98E488T3sfkZCIf3aQaV8cEQHmGw10bAHDdObW5Y8x"
   },
   "painelHub": {
-    "versao": "3.0.1",
-    "notas": "A atualização do painel mudou para Configurações → Firmware.",
-    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/hub/painel-hub-v3.0.1.json",
-    "tamanho": 441861,
-    "sha256": "dca22c298d5bbc18c6a96ae9e78ecf18d4e0fdb60969026b7122c86e1a9e6adc",
-    "assinatura": "MEYCIQDzCAzXkT0uknl1aVL90vDHvOLJy6q/Be/8ZM5hNvGmLAIhAM8M2L8nuIPsQCt3ArfDjtMViOYwvqurOvffH1DU5jGC"
+    "versao": "3.0.2",
+    "notas": "Feriados locais em Automações → Feriados (valem no ar e no alarme). Precisa do firmware 3.0.0 nos Slaves.",
+    "url": "https://raw.githubusercontent.com/serednicki/THR-AC-control/main/hub/painel-hub-v3.0.2.json",
+    "tamanho": 452245,
+    "sha256": "f2e61ac3905aae638a6dc85fe56a3bc454302c1949765a603a680829c4926c8b",
+    "assinatura": "MEUCIEE/Bn7Ak3S8LQdZ6SFiQeIVb06jnIfCbTNha1wyypuYAiEAj8nuqKjwJiDmiFQaKY6y5UDXuYP7a+ThdT8anQvnb0M="
   }
 }
